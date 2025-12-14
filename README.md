@@ -37,5 +37,5 @@ that help improve business decision-making.
 4. Open Power BI file
 
 ## 📬 Contact
-LinkedIn: (add your link)
+LinkedIn: https://www.linkedin.com/in/asit-emmanuel-lakra-18a4993a/
 
