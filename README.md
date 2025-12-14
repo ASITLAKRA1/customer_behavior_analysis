@@ -25,7 +25,7 @@ that help improve business decision-making.
 - Discount usage impacts repeat purchases
 
 ## 📸 Dashboard Preview
-![Dashboard](images/dashboard_screenshot.png)
+![Dashboard](images/Dashboard_screenshot.png)
 
 ## 📁 Repository Structure
 (see folders above)
